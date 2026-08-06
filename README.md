@@ -3,7 +3,7 @@
 A real-time electric vehicle charging station monitoring dashboard built with React and Tailwind CSS.
 
 ## Live Demo
-https://theltheinttheintsen.github.io/EV-charging-station-dashboard
+https://hannay-sen.github.io/EV-charging-station-dashboard
 
 ## Features
 - Real-time battery level simulation across 6 charging stations
