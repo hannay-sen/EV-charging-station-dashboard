@@ -1,19 +1,20 @@
-# Space Station Power Grid Dashboard
+# Bay Area EV Charging Network Dashboard
 
-A real-time space station power monitoring dashboard built with React and Tailwind CSS.
+A real-time electric vehicle charging station monitoring dashboard built with React and Tailwind CSS.
 
 ## Live Demo
 
-https://hannay-sen.github.io/space-power-grid
+https://hannay-sen.github.io/EV-charging-station-dashboard
 
 ## Features
 
-- Real-time power level simulation across 6 station modules
-- Dynamic status system — modules shift between normal, warning, and critical automatically
-- Featured module view — click any module to expand its details
-- Live mission elapsed time clock
-- Rotating alert ticker with color-coded severity levels
-- Smooth animations and transitions on load
+- Real-time battery level simulation across 6 charging stations
+- Dynamic status system: stations shift between available, charging, and offline automatically
+- Click any station card to start or stop charging
+- Live clock updating every second
+- Animated battery bars on load
+- Smooth card transitions and hover effects
+- Fully responsive, works on mobile and desktop
 
 ## Tech Stack
 
@@ -26,8 +27,8 @@ https://hannay-sen.github.io/space-power-grid
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/hannay-sen/space-power-grid.git
-   cd space-power-grid
+   git clone https://github.com/hannay-sen/EV-charging-station-dashboard.git
+   cd EV-charging-station-dashboard
    ```
 
 2. **Install dependencies**
